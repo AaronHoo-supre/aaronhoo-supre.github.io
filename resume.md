@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: resume_layout
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
