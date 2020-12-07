@@ -22,10 +22,10 @@ by Guoliang Hu
 #### 文章链接：
 
 
-> *   [热恋：机器学习与深度学习](./ai_index.md).
-> *   [初恋：数据结构算法](./datastructure.md).
-> *   [趣味算法小问题](./algorithm_problem.md).
-> *   [工作记录：DSL算子开发](./work_log.md).
+> *   [热恋：机器学习与深度学习](./AI_algorithms/index.md)
+> *   [初恋：数据结构算法](./Datastructure/index.md)
+> *   [趣味算法小问题](./Algorithm_problem/index.md)
+> *   [工作记录：DSL算子开发](./Work_log/index.md)
 
 * * *
 
