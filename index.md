@@ -40,8 +40,8 @@ by Guoliang Hu
 
 >测试:
 ***
-![旅行相册](./photo_album/bg.jpg)
-[查看更多图片](./pic_index.md)
+![旅行相册](./Photo_album/bg.jpg)
+[查看更多图片](./index.md)
 
 ### Header 3
 
