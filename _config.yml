@@ -1,5 +1,5 @@
-title: Slate theme
-description: Slate is a theme for GitHub Pages.
-show_downloads: true
+title: 算法养成手册
+description: 记录工作过程中的一些有趣算法与学习过程
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
