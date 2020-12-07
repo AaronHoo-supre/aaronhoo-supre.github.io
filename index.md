@@ -22,10 +22,10 @@ by Guoliang Hu
 #### 文章链接：
 
 
-> *   [热恋：机器学习与深度学习](./another-page.html).
-> *   [初恋：数据结构算法](./another-page.html).
-> *   [趣味算法小问题](./another-page.html).
-> *   [工作记录：DSL算子开发](./another-page.html).
+> *   [热恋：机器学习与深度学习](./ai_index.md).
+> *   [初恋：数据结构算法](./datastructure.md).
+> *   [趣味算法小问题](./algorithm_problem.md).
+> *   [工作记录：DSL算子开发](./work_log.md).
 
 * * *
 
@@ -40,7 +40,8 @@ by Guoliang Hu
 
 >测试:
 ***
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![旅行相册](./photo_album/bg.jpg)
+[查看更多图片](./pic_index.md)
 
 ### Header 3
 
@@ -65,7 +66,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+#### Tips
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
