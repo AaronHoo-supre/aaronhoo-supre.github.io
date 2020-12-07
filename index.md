@@ -32,7 +32,7 @@ by Guoliang Hu
 
 # Personal Resume
 
-> [个人简历及联系方式](./another-page.html).
+> [个人简历及联系方式](./resume.html).
 
 <br/>
 
