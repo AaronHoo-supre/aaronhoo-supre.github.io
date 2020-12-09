@@ -30,23 +30,23 @@ by Guoliang Hu
 * * *
 
 
-# Personal Resume
+#### Personal Resume
 
 > [个人简历及联系方式](./resume.md).
 
 <br/>
 
-## photo album
+#### photo album
 
 >测试:
-***
+* * *
 ![旅行相册](./Photo_album/bg.jpg)
 [查看更多图片](./index.md)
 
-### Header 3
+#### code patches
 
 ```c++
-// C++ code with syntax highlighting.
+// C++ 动态二位数组申请
 int **a ;
 a = new int *[m] ;
 for(int i = 0; i < m; ++ i)
@@ -59,26 +59,19 @@ for(int i = 0; i < m; ++ i)
 }
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
 #### Tips
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   深度理解高斯正态分布，对数据而言，这种分布规则到底意味着什么？
+*   SGD(MBGD)为何能找到最优解，多从期望的角度考虑。
+*   自学算法，从理论到实践的路究竟有多远。
 
-##### Header 5
+#### 标题尚未想好
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  氪金总带来神秘的快感，游戏厂商与玩家为什么自愿融入周瑜、黄盖的角色。
+2.  虚拟经济横行，互联网界有多大的泡沫，Google真的天下第一吗？
+3.  为什么我甘愿变成直男，反思自己是何时开始热衷科研行业。
 
-###### Header 6
+##### 测试用表格
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -97,14 +90,14 @@ end
 ### Definition lists can be used with HTML syntax.
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
+<dt>Idol Name</dt>
+<dd>Isaac Newton</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>1643</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dd>UK</dd>
+<dt>Title</dt>
+<dd>God</dd>
 </dl>
 
 ```
