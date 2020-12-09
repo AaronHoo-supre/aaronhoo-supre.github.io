@@ -32,15 +32,13 @@ by Guoliang Hu
 
 > [个人简历及联系方式](./resume.md).
 
-<br/>
-
 #### photo album
 
->测试:
-* * *
+测试:
+
 ![旅行相册](./Photo_album/bg.jpg)
 [查看更多图片](./index.md)
-<br/>
+
 #### code patches
 
 ```c++
@@ -56,19 +54,18 @@ for(int i = 0; i < m; ++ i)
   }
 }
 ```
-<br/>
 #### Tips
 
 *   深度理解高斯正态分布，对数据而言，这种分布规则到底意味着什么？
 *   SGD(MBGD)为何能找到最优解，多从期望的角度考虑。
 *   自学算法，从理论到实践的路究竟有多远。
-<br/>
+
 #### 标题尚未想好
 
 1.  氪金总带来神秘的快感，游戏厂商与玩家为什么自愿融入周瑜、黄盖的角色。
 2.  虚拟经济横行，互联网界有多大的泡沫，Google真的天下第一吗？
 3.  为什么我甘愿变成直男，反思自己是何时开始热衷科研行业。
-<br/>
+
 ##### 测试用表格
 
 | head1        | head two          | three |
@@ -78,13 +75,10 @@ for(int i = 0; i < m; ++ i)
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-<br/>
-
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-<br/>
 ### Definition lists can be used with HTML syntax.
 
 <dl>
