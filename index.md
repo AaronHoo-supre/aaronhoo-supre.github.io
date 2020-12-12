@@ -30,11 +30,9 @@ by Guoliang Hu
 <br/>
 #### Personal Resume
 
-> [个人简历及联系方式](./resume.md).
+> [个人简历及联系方式](./resume.pdf).
 
 #### photo album
-
-测试:
 
 ![旅行相册](./Photo_album/bg.jpg)
 [查看更多图片](./index.md)
@@ -74,8 +72,8 @@ for(int i = 0; i < m; ++ i)
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
-
-### Small image
+L
+### Logo
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
