@@ -64,16 +64,6 @@ for(int i = 0; i < m; ++ i)
 2.  虚拟经济横行，互联网界有多大的泡沫，Google真的天下第一吗？
 3.  为什么我甘愿变成直男，反思自己是何时开始热衷科研行业。
 
-#### 测试用表格
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-L
-
 #### Logo
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
