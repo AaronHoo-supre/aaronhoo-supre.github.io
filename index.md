@@ -64,7 +64,7 @@ for(int i = 0; i < m; ++ i)
 2.  虚拟经济横行，互联网界有多大的泡沫，Google真的天下第一吗？
 3.  为什么我甘愿变成直男，反思自己是何时开始热衷科研行业。
 
-##### 测试用表格
+#### 测试用表格
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -73,11 +73,12 @@ for(int i = 0; i < m; ++ i)
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 L
-### Logo
+
+#### Logo
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Definition lists can be used with HTML syntax.
+#### Definition lists can be used with HTML syntax.
 
 <dl>
 <dt>Idol Name</dt>
