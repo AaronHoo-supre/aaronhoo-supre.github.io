@@ -125,7 +125,7 @@
        end1 = (end1 + 1) % MaxSize ;
    }
    //队尾出队，相当于弹栈
-   void pop(my_deque deque, int val){
+   void pop(my_deque deque, int &val){
        val = arr[end2] ;
        end2 = (end2 - 1) % MaxSize ;
    }
