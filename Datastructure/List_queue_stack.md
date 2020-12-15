@@ -79,7 +79,7 @@
            return false ;
    }
    //循环队列判断是否为满
-   bool is_saturated（cir_queue que）{
+   bool is_saturated(cir_queue que){
        if((que.rear+1) % MaxSize == front)
            return true ;
        else
